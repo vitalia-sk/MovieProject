@@ -2,6 +2,9 @@
 ## Table Content
 [Problem Statement](#problem-statement)
 [Data Source](#data-source)
+[Tools](#tools)
+[Data Cleaning](#data-cleaning)
+[Dashboard](#dashboard)
 
 ### Problem Statement
 Netflix wants to better understand which movie they should produce next, including the most suitable actors and directors. We have a dataset containing movie budgets, box office performance, actors, directors, and genres. 
@@ -30,3 +33,5 @@ You can download the original datasource here: [Movies Data](https://github.com/
 * Handling errors, missing values.
 * Data cleaning and formatting. The excel file after the data cleaning & preparation process can be downloaded here - [Movies Data Dashboard](https://github.com/user-attachments/files/28590111/Movies_Data_Dashboard_VS.xlsx)
 
+### Dashboard 
+<img width="459" height="353" alt="image" src="https://github.com/user-attachments/assets/fc440e64-16ed-438f-906c-1b44585ec801" />
